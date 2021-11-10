@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Store = () => {
+const NASA = () => {
     return (
         <div>
             
@@ -11,4 +11,4 @@ const Store = () => {
 
 
 
-export default Store;
+export default NASA;
